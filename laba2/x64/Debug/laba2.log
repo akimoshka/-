@@ -1,0 +1,3 @@
+﻿  laba2.cpp
+C:\Users\akimo\Documents\С++\дзШаг\laba2\laba2\laba2.cpp(84,42): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  laba2.vcxproj -> C:\Users\akimo\Documents\С++\дзШаг\laba2\x64\Debug\laba2.exe
